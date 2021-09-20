@@ -1,0 +1,24 @@
+[
+    {
+        "ROM": "64 GB ROM",
+        "Display": "15.49 cm (6.1 inch) Display",
+        "Camera": "12MP Wide Camera | 7MP Front Camera",
+        "OS": "iOS 12",
+        "Warranty": "Brand Warranty of 1 Year"
+    },
+    {
+        "Brand" : "Apple",	
+        "Model" : "iPhone 12 Pro",
+        "Price in India" : "竄ｹ106,900",
+        "Release date" : "13th October 2020",
+        "Launched in India"	 : "Yes",
+        "Form factor" : "Touchscreen",
+        "Dimensions (mm)" :	"146.70 x 71.50 x 7.40",
+        "Weight (g)" : "189",
+        "IP rating" : "IP68",
+        "Removable battery"	: "No",
+        "Fast charging" : "Proprietary",
+        "Wireless charging"	: "Yes",
+        "Colours" : "Gold, Graphite, Pacific Blue, Silver"
+    }
+]
